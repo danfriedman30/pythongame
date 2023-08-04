@@ -1,0 +1,11 @@
+Welcome to my rudimentary golf simulator!
+
+In this game, you will play 9 holes on a randomly generated course. You will face 2 par 3s, 2 par 5s, and 5 par 4s of random distances.
+
+You'll have a set of 6 clubs to choose from: Driver, Low Iron, Mid Iron, High Iron, Gap Wedge, & Lob Wedge. Each shot will go a random distance within a fixed distance range for each club.
+
+Once you get to less than 20 yards from the hole, you will be on the green and the program will automatically putt you out, using a randomly generated number of putts between 1-3, inclusive.
+
+You'll have a rolling scorecard that will update you after every hole. 
+
+Have fun, and let me know any feedback. Enjoy!
